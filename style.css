@@ -59,6 +59,10 @@
   gap: 3px;
 }
 
+.links a:hover {
+  text-decoration: none;
+}
+
 .links .site {
   font-weight: bold;
 }
