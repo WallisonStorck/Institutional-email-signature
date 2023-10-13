@@ -26,8 +26,10 @@
   background-color: black;
 }
 
-.description h1 {
+.description .name {
   font-size: 14pt;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 .description,
