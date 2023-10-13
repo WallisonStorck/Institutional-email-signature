@@ -5,66 +5,65 @@
   color: black;
 }
 
-.container {
+/* ---------------------------------------------- */
+
+/* .container {
   margin: 10px;
   display: flex;
   align-items: center;
   gap: 20px;
-}
+} */
 
-.container img {
+/* .container img {
   width: 274px;
-  /* aspect-ratio: auto 274 / 69; */
-  /* height: 69px; */
-}
+} */
 
-.divider {
+/* .divider {
   width: 1px;
   height: 105px;
-  /* height: 100%; */
-  /* margin-right: 15px; */
   background-color: black;
-}
+} */
 
-.description .name {
+/* .description .name {
   font-size: 14pt;
   text-decoration: none;
   font-weight: bold;
-}
+} */
 
-.description,
+/* .description,
 .description h3 {
   font-size: 10pt;
   font-weight: initial;
-}
+} */
 
-.description .phones {
+/* .description .phones {
   text-decoration: none;
   margin: 7px 0;
   display: flex;
   gap: 0.5rem;
-}
+} */
 
-.description .phones a {
+/* .description .phones a {
   text-decoration: none;
-}
+} */
 
-.phones .divider-phone {
-  background-color: black;
-  height: 17px;
+/* .phones .divider-phone {
   width: 1px;
-}
+  height: 17px;
+  background-color: black;
+} */
 
-.description .links {
+/* .description .links {
   display: flex;
   flex-direction: column;
   gap: 3px;
-}
+} */
+/* ---------------------------------------------- */
 
 .links a:hover {
   text-decoration: none;
 }
 
-.links .site {
+/* .links .site {
   font-weight: bold;
-}
+} */
