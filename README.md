@@ -8,7 +8,7 @@
  </p>
 <br>
 <p align="center">
-  <img alt="Landing Page" src="./assets/Print.png">
+  <img alt="Signature" src="./assets/PrintV1.1.png">
 </p>
 
 <br>
