@@ -8,7 +8,7 @@
  </p>
 <br>
 <p align="center">
-  <img alt="Signature" src="./assets/PrintV1.1.png">
+  <img alt="Signature" src="./assets/PrintV2.0.png">
 </p>
 
 <br>
